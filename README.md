@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imcabillan
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Data Analyis, Machine learning and AI
+- 🌱 I’m currently expanding my knowledge in Data analysis 
 - 💞️ I’m looking to collaborate on my own Startup
 - 📫 You can reach me via email: imcabillan@gmail.com or my linkedin https://www.linkedin.com/in/iancabillan/
 
